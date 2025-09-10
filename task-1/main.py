@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 # Загружаем изображение
 image = cv2.imread('image.jpg')
 
