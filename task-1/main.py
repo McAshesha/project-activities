@@ -15,6 +15,7 @@ color_circle = (0, 255, 0)     # Зеленый цвет
 color_text = (255, 0, 0)       # Синий цвет
 thickness = 2                  # Толщина линий
 
+
 # Рисуем прямоугольник
 start_point_rect = (50, 50)
 end_point_rect = (200, 200)
