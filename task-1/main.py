@@ -20,7 +20,6 @@ start_point_rect = (50, 50)
 end_point_rect = (200, 200)
 cv2.rectangle(image, start_point_rect, end_point_rect, color_rectangle, thickness)
 
-
 # Рисуем круг
 center_circle = (300, 300)
 radius = 50
